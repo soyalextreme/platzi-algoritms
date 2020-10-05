@@ -1,0 +1,17 @@
+METODOLOGIA EN LA CONSTRUCCION DE UN ALGORITMO 
+
+1- Definicion de un problema.
+2- Analisis del problema.
+3- Disno del algoritmo.
+4- Verificacion y pruebas.
+
+
+
+DATOS A EXTRAER DEL PROBLEMA:
+
+Entrada => Que se necesita para realizar los pasos?
+Salida => Que se tiene que obtener con el algoritmo al final?
+Tios de datos => Numeros enteros, reales, complejos
+		 Rexto: Letras palabras frases 
+		 Otros
+
