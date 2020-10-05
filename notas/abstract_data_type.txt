@@ -1,0 +1,5 @@
+
+
+
+Listas => existen varios tipos de listas per basicamente son un conjunto de datos ordenanos.
+Stack => el ultimo dato en ingresar es el ultimo en salir
