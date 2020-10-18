@@ -3,7 +3,7 @@
 # necesitamos un punto pivotal
 # Recursivamente ordenar cada mitad del array
 import random
-from sorting_algoritms import bubble_sort
+from sorting_algorithms import bubble_sort
 
 
 def partition(l, low, high):
